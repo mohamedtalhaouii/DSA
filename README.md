@@ -28,7 +28,7 @@
 
 Cliquez sur les liens pour explorer les implémentations de chaque algorithme dans le dossier GitHub.
 
-1. **[Tri par Sélection (Selection Sort)](https://github.com/DSA/tri-par-selection)**  
+1. **[Tri par Sélection (Selection Sort)](https://github.com/mohamedtalhaouii/DSA/tree/60a1abcb85d3f3789b55baffd68a37738609b97c/Algorithmes/Tri%20(Sort)/1-%20Selection)**  
    - Complexité : **O(n²)** (tous les cas).  
    - Trouve le plus petit élément et le place au début.  
 
