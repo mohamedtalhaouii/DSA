@@ -1,8 +1,8 @@
 # **Plan du Contenu**
 ### **1- Algorithmes**
 - **Algorithmes de Tri**  
-  - [Tri par Insertion (Insertion Sort)](https://github.com/DSA/algorithmes-de-tri/insertion_sort)  
-  - [Tri par Sélection (Selection Sort)](https://github.com/DSA/algorithmes-de-tri/selection_sort)  
+  - [Tri par Sélection (Selection Sort)](https://github.com/DSA/algorithmes-de-tri/selection_sort)
+  - [Tri par Insertion (Insertion Sort)](https://github.com/DSA/algorithmes-de-tri/insertion_sort)   
   - [Tri à Bulles (Bubble Sort)](https://github.com/DSA/algorithmes-de-tri/bubble_sort)  
   - [Tri Rapide (Quick Sort)](https://github.com/DSA/algorithmes-de-tri/quick_sort)  
   - [Tri Fusion (Merge Sort)](https://github.com/DSA/algorithmes-de-tri/merge_sort)  
@@ -28,25 +28,27 @@
 
 Cliquez sur les liens pour explorer les implémentations de chaque algorithme dans le dossier GitHub.
 
-1. **[Tri par Insertion (Insertion Sort)](https://github.com/DSA/tri-par-insertion)**  
-   - Complexité : **O(n²)** (cas moyen et pire), **O(n)** (meilleur cas).  
-   - Insère chaque élément à sa place dans une liste triée.  
-
-2. **[Tri par Sélection (Selection Sort)](https://github.com/DSA/tri-par-selection)**  
+1. **[Tri par Sélection (Selection Sort)](https://github.com/DSA/tri-par-selection)**  
    - Complexité : **O(n²)** (tous les cas).  
    - Trouve le plus petit élément et le place au début.  
 
+2. **[Tri par Insertion (Insertion Sort)](https://github.com/DSA/tri-par-insertion)**  
+   - Complexité : **O(n²)** (cas moyen et pire), **O(n)** (meilleur cas).  
+   - Insère chaque élément à sa place dans une liste triée.  
+
+
 3. **[Tri à Bulles (Bubble Sort)](https://github.com/DSA/tri-a-bulles)**  
    - Complexité : **O(n²)** (cas moyen et pire), **O(n)** (meilleur cas).  
-   - Compare et échange des éléments adjacents.  
+   - Compare et échange des éléments adjacents.
 
-4. **[Tri Rapide (Quick Sort)](https://github.com/DSA/tri-rapide)**  
+4. **[Tri Fusion (Merge Sort)](https://github.com/DSA/tri-fusion)**  
+   - Complexité : **O(n log n)** (tous les cas).  
+   - Divise et fusionne les sous-listes triées.  
+
+5. **[Tri Rapide (Quick Sort)](https://github.com/DSA/tri-rapide)**  
    - Complexité : **O(n log n)** (cas moyen), **O(n²)** (pire cas).  
    - Divise la liste en sous-listes autour d’un pivot.  
 
-5. **[Tri Fusion (Merge Sort)](https://github.com/DSA/tri-fusion)**  
-   - Complexité : **O(n log n)** (tous les cas).  
-   - Divise et fusionne les sous-listes triées.  
 
 6. **[Tri Par Tas (Heap Sort)](https://github.com/DSA/tri-par-tas)**  
    - Complexité : **O(n log n)** (tous les cas).  
