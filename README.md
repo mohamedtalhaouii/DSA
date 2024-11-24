@@ -1,4 +1,26 @@
-# **Structure de Données et Algorithmes**
+# **Plan du Contenu**
+### **1- Algorithmes**
+- **Algorithmes de Tri**  
+  - [Tri par Insertion (Insertion Sort)](https://github.com/DSA/algorithmes-de-tri/insertion_sort)  
+  - [Tri par Sélection (Selection Sort)](https://github.com/DSA/algorithmes-de-tri/selection_sort)  
+  - [Tri à Bulles (Bubble Sort)](https://github.com/DSA/algorithmes-de-tri/bubble_sort)  
+  - [Tri Rapide (Quick Sort)](https://github.com/DSA/algorithmes-de-tri/quick_sort)  
+  - [Tri Fusion (Merge Sort)](https://github.com/DSA/algorithmes-de-tri/merge_sort)  
+  - [Tri par Tas (Heap Sort)](https://github.com/DSA/algorithmes-de-tri/heap_sort)  
+
+- **Algorithmes de Recherche**  
+  - [Recherche Séquentielle (Linear Search)](https://github.com/DSA/algorithmes-de-recherche/linear_search)  
+  - [Recherche Dichotomique (Binary Search)](https://github.com/DSA/algorithmes-de-recherche/binary_search)  
+
+
+### **Navigation Rapide**
+- [Algorithmes](#algorithmes)  
+- [Structures de Données](#structures-de-données-à-ajouter)  
+
+---
+
+# **Algorithmes**
+### [🔝 Retour à l'index](#plan-du-contenu)
 
 ## **Algorithmes de Tri**
 
