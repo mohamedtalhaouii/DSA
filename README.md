@@ -36,7 +36,7 @@
 
 ---
 
-# **Algorithmes**
+# **1- Algorithmes :**
 ### **[🔝 Retour à l'index](#plan-du-contenu)**
 
 ## **Algorithmes de Tri :**
