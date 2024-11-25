@@ -1,5 +1,5 @@
 # **Plan du Contenu**
-### **1- Les Algorithmes**
+### **1- Algorithmes**
 
 - **[Algorithmes de Tri :](#algorithmes-de-tri-)**
 
@@ -14,6 +14,15 @@
 
   - **[Recherche Séquentielle (Linear Search)](#1-recherche-séquentielle-linear-search)**
   - **[Recherche Dichotomique (Binary Search)](#2-recherche-dichotomique-binary-search)**
+
+- **[Complexité :](#complexité-)**
+
+  - **[Notation Big O](#notation-big-o)**
+  - **[Complexité Temporelle](#complexité-temporelle-)**
+  - **[Complexité Spatiale](#complexité-spatiale-)**
+  - **[Analyse de la Complexité](#analyse-de-la-complexité-)**
+  - **[Importance de la Complexité](#importance-de-la-complexité-)**
+  - **[Techniques pour Réduire la Complexité](#techniques-pour-réduire-la-complexité-)**
 
 ---
 
@@ -65,7 +74,7 @@ Cliquez sur les liens pour explorer les implémentations de chaque algorithme da
    - Utilise une structure en tas pour trier.  
 
 
-## **Algorithmes de Recherche :**
+# **Algorithmes de Recherche :**
 
 ![SearchAlgorithms](https://github.com/user-attachments/assets/ee6619a3-ffc8-4515-9356-a13c5b89670b)
 
@@ -83,6 +92,52 @@ Cliquez sur les liens pour accéder aux algorithmes de recherche sur GitHub.
 ## **Naviguer par Catégorie**
 - **[Dossier des Algorithmes de Tri](https://github.com/mohamedtalhaouii/DSA/tree/main/Algorithmes/Tri%20(Sort))**
 - **[Dossier des Algorithmes de Recherche](https://github.com/mohamedtalhaouii/DSA/tree/main/Algorithmes/Recherche%20(Search))**
+
+
+# **Complexité :**
+
+![Big O](https://github.com/user-attachments/assets/57769ee1-5e07-4060-adbd-2a8a26838fab)
+
+## Notation Big O
+- **Définition :** Décrit la borne supérieure du temps d'exécution d'un algorithme. Elle donne le pire des cas de la manière dont le temps d'exécution augmente avec la taille de l'entrée.
+- **Classes courantes :** 
+  -  $`O(1)`$ : Temps constant. 
+  -  $`O(\log n)`$ : Temps logarithmique. 
+  -  $`O(n)`$ : Temps linéaire. 
+  -  $`O(n \log n)`$ : Temps linéarithmique. 
+  -  $`O(n^2)`$ : Temps quadratique. 
+  -  $`O(2^n)`$ : Temps exponentiel. 
+  -  $`O(n!)`$ : Temps factoriel. 
+
+
+## Complexité temporelle :
+- **Définition :** Mesure la quantité de temps qu'un algorithme prend pour s'exécuter en fonction de la longueur de l'entrée. 
+- **Classes courantes :** 
+    -  **P :** Problèmes résolubles en temps polynomial. 
+    -  **NP :** Problèmes pour lesquels une solution donnée peut être vérifiée en temps polynomial. 
+    -  **NP-difficile :** Problèmes aussi difficiles que les problèmes les plus difficiles de NP ; pas nécessairement dans NP. 
+    -  **NP-complet :** Problèmes de NP qui sont NP-difficiles. 
+
+## Complexité spatiale :
+- **Définition :** Mesure la quantité de mémoire qu'un algorithme utilise en fonction de la longueur de l'entrée. 
+- **Classes courantes :** 
+    -  **PSPACE :** Problèmes résolubles en utilisant une quantité polynomiale d'espace. 
+    -  **L :** Problèmes résolubles en espace logarithmique. 
+    -  **NL :** Problèmes résolubles en espace logarithmique non déterministe. 
+
+## Analyse de la Complexité :
+- **Cas moyen** : Représente la complexité dans la plupart des situations. 
+- **Pire cas** : La complexité la plus élevée, souvent analysée avec la notation $`Big-O`$. 
+- **Meilleur cas** : La complexité minimale, mais rarement utilisée pour évaluer les performances globales. 
+
+### Importance de la Complexité :
+- **Optimisation** : La complexité aide à choisir l'algorithme le plus performant pour un problème donné, en fonction des ressources disponibles (temps et mémoire). 
+- **Scalabilité** : Une bonne analyse de la complexité permet de savoir si un algorithme peut gérer de grandes tailles d'entrées de manière efficace. 
+
+### Techniques pour Réduire la Complexité :
+- **Diviser pour régner** : Diviser un problème en sous-problèmes plus petits, comme dans les algorithmes de tri (ex. tri rapide, tri fusion). 
+- **Approximations** : Pour les problèmes NP-complets, utiliser des algorithmes d'approximation ou des heuristiques. 
+- **Mémoïsation et programmation dynamique** : Stocker les résultats intermédiaires pour éviter les calculs redondants.
 
 ---
 
