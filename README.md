@@ -84,5 +84,7 @@ Cliquez sur les liens pour accéder aux algorithmes de recherche sur GitHub.
 - **[Dossier des Algorithmes de Tri](https://github.com/mohamedtalhaouii/DSA/tree/main/Algorithmes/Tri%20(Sort))**
 - **[Dossier des Algorithmes de Recherche](https://github.com/mohamedtalhaouii/DSA/tree/main/Algorithmes/Recherche%20(Search))**
 
-
 ---
+
+# **Structures de Données**
+*(soon as possible...)*
