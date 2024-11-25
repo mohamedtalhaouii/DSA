@@ -87,4 +87,5 @@ Cliquez sur les liens pour accéder aux algorithmes de recherche sur GitHub.
 ---
 
 # **Structures de Données**
+### **[🔝 Retour à l'index](#plan-du-contenu)**
 *(soon as possible...)*
