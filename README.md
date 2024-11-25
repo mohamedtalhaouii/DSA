@@ -1,16 +1,16 @@
 # **Plan du Contenu**
 ### **1- Algorithmes**
 - **Algorithmes de Tri**  
-  - [Tri par Sélection (Selection Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.md#tri-par-sélection-selection-sort)
-  - [Tri par Insertion (Insertion Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.md#)   
-  - [Tri à Bulles (Bubble Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.mdbubble_sort)  
-  - [Tri Rapide (Quick Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.mdquick_sort)  
-  - [Tri Fusion (Merge Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.mdmerge_sort)  
-  - [Tri par Tas (Heap Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.mdheap_sort)  
+  - **[Tri par Sélection (Selection Sort)](#tri-par-sélection-selection-sort)**
+  - **[Tri par Insertion (Insertion Sort)](#tri-par-insertion-insertion-sort)**
+  - **[Tri à Bulles (Bubble Sort)](#tri-à-bulles-bubble-sort)**
+  - **[Tri Rapide (Quick Sort)](#tri-rapide-quick-sort)**
+  - **[Tri Fusion (Merge Sort)](#tri-fusion-merge-sort)**
+  - **[Tri par Tas (Heap Sort)](#tri-par-tas-heap-sort)**
 
 - **Algorithmes de Recherche**  
-  - [Recherche Séquentielle (Linear Search)](https://github.com/DSA/algorithmes-de-recherche/linear_search)  
-  - [Recherche Dichotomique (Binary Search)](https://github.com/DSA/algorithmes-de-recherche/binary_search)  
+  - **[Recherche Séquentielle (Linear Search)](#algorithmes-de-recherche-linear-search)**
+  - **[Recherche Dichotomique (Binary Search)](algorithmes-de-recherche-binary_search)**
 
 
 ### **Navigation Rapide**
