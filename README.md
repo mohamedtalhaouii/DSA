@@ -1,12 +1,12 @@
 # **Plan du Contenu**
 ### **1- Algorithmes**
 - **Algorithmes de Tri**  
-  - [Tri par Sélection (Selection Sort)](https://github.com/DSA/algorithmes-de-tri/selection_sort)
-  - [Tri par Insertion (Insertion Sort)](https://github.com/DSA/algorithmes-de-tri/insertion_sort)   
-  - [Tri à Bulles (Bubble Sort)](https://github.com/DSA/algorithmes-de-tri/bubble_sort)  
-  - [Tri Rapide (Quick Sort)](https://github.com/DSA/algorithmes-de-tri/quick_sort)  
-  - [Tri Fusion (Merge Sort)](https://github.com/DSA/algorithmes-de-tri/merge_sort)  
-  - [Tri par Tas (Heap Sort)](https://github.com/DSA/algorithmes-de-tri/heap_sort)  
+  - [Tri par Sélection (Selection Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.md#tri-par-sélection-selection-sort)
+  - [Tri par Insertion (Insertion Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.md#)   
+  - [Tri à Bulles (Bubble Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.mdbubble_sort)  
+  - [Tri Rapide (Quick Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.mdquick_sort)  
+  - [Tri Fusion (Merge Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.mdmerge_sort)  
+  - [Tri par Tas (Heap Sort)](https://github.com/mohamedtalhaouii/DSA/blob/main/README.mdheap_sort)  
 
 - **Algorithmes de Recherche**  
   - [Recherche Séquentielle (Linear Search)](https://github.com/DSA/algorithmes-de-recherche/linear_search)  
@@ -20,7 +20,7 @@
 ---
 
 # **Algorithmes**
-### [🔝 Retour à l'index](#plan-du-contenu)
+### **[🔝 Retour à l'index](#plan-du-contenu)**
 
 ## **Algorithmes de Tri**
 
@@ -71,7 +71,8 @@ Cliquez sur les liens pour accéder aux algorithmes de recherche sur GitHub.
 
 
 ## **Naviguer par Catégorie**
-- **[Dossier des Algorithmes de Tri](https://github.com/DSA/algorithmes-de-tri)**  
+- **[🔝 Retour à l'index](#plan-du-contenu)**
+- **[Dossier des Algorithmes de Tri](https://github.com/DSA/algorithmes-de-tri)**
 - **[Dossier des Algorithmes de Recherche](https://github.com/DSA/algorithmes-de-recherche)**
 
 
