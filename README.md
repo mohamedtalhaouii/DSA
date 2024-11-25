@@ -1,21 +1,29 @@
 # **Plan du Contenu**
-### **1- Algorithmes**
-- **Algorithmes de Tri**  
-  - **[Tri par Sélection (Selection Sort)](#tri-par-sélection-selection-sort)**
-  - **[Tri par Insertion (Insertion Sort)](#tri-par-insertion-insertion-sort)**
-  - **[Tri à Bulles (Bubble Sort)](#tri-à-bulles-bubble-sort)**
-  - **[Tri Rapide (Quick Sort)](#tri-rapide-quick-sort)**
-  - **[Tri Fusion (Merge Sort)](#tri-fusion-merge-sort)**
-  - **[Tri par Tas (Heap Sort)](#tri-par-tas-heap-sort)**
+### **1- Les Algorithmes**
 
-- **Algorithmes de Recherche**  
-  - **[Recherche Séquentielle (Linear Search)](#algorithmes-de-recherche-linear-search)**
-  - **[Recherche Dichotomique (Binary Search)](algorithmes-de-recherche-binary_search)**
+- **[Algorithmes de Tri :](#algorithmes-de-tri)**
 
+  - **[Tri par Sélection (Selection Sort)](#1-tri-par-sélection-selection-sort)**
+  - **[Tri par Insertion (Insertion Sort)](#2-tri-par-insertion-insertion-sort)**
+  - **[Tri à Bulles (Bubble Sort)](#3-tri-à-bulles-bubble-sort)**
+  - **[Tri Fusion (Merge Sort)](#4-tri-fusion-merge-sort)**
+  - **[Tri Rapide (Quick Sort)](#5-tri-rapide-quick-sort)**
+  - **[Tri par Tas (Heap Sort)](#6-tri-par-tas-heap-sort)**
 
-### **Navigation Rapide**
+- **[Algorithmes de Recherche :](#algorithmes-de-recherche)**
+
+  - **[Recherche Séquentielle (Linear Search)](#1-recherche-séquentielle-linear-search)**
+  - **[Recherche Dichotomique (Binary Search)](#2-recherche-dichotomique-binary-search)**
+
+---
+
+### **2- Structures de Données**
+
+---
+
+### **3- Navigation Rapide**
 - [Algorithmes](#algorithmes)  
-- [Structures de Données](#structures-de-données-à-ajouter)  
+- [Structures de Données](#structures-de-données)  
 
 ---
 
@@ -28,29 +36,29 @@
 
 Cliquez sur les liens pour explorer les implémentations de chaque algorithme dans le dossier GitHub.
 
-1. **[Tri par Sélection (Selection Sort)](https://github.com/mohamedtalhaouii/DSA/tree/60a1abcb85d3f3789b55baffd68a37738609b97c/Algorithmes/Tri%20(Sort)/1-%20Selection)**  
+#### 1. **[Tri par Sélection (Selection Sort)](https://github.com/mohamedtalhaouii/DSA/tree/60a1abcb85d3f3789b55baffd68a37738609b97c/Algorithmes/Tri%20(Sort)/1-%20Selection)**  
    - Complexité : **O(n²)** (tous les cas).  
    - Trouve le plus petit élément et le place au début.  
 
-2. **[Tri par Insertion (Insertion Sort)](https://github.com/DSA/tri-par-insertion)**  
+#### 2. **[Tri par Insertion (Insertion Sort)](https://github.com/DSA/tri-par-insertion)**  
    - Complexité : **O(n²)** (cas moyen et pire), **O(n)** (meilleur cas).  
    - Insère chaque élément à sa place dans une liste triée.  
 
 
-3. **[Tri à Bulles (Bubble Sort)](https://github.com/DSA/tri-a-bulles)**  
+#### 3. **[Tri à Bulles (Bubble Sort)](https://github.com/DSA/tri-a-bulles)**  
    - Complexité : **O(n²)** (cas moyen et pire), **O(n)** (meilleur cas).  
    - Compare et échange des éléments adjacents.
 
-4. **[Tri Fusion (Merge Sort)](https://github.com/DSA/tri-fusion)**  
+#### 4. **[Tri Fusion (Merge Sort)](https://github.com/DSA/tri-fusion)**  
    - Complexité : **O(n log n)** (tous les cas).  
    - Divise et fusionne les sous-listes triées.  
 
-5. **[Tri Rapide (Quick Sort)](https://github.com/DSA/tri-rapide)**  
+#### 5. **[Tri Rapide (Quick Sort)](https://github.com/DSA/tri-rapide)**  
    - Complexité : **O(n log n)** (cas moyen), **O(n²)** (pire cas).  
    - Divise la liste en sous-listes autour d’un pivot.  
 
 
-6. **[Tri Par Tas (Heap Sort)](https://github.com/DSA/tri-par-tas)**  
+#### 6. **[Tri Par Tas (Heap Sort)](https://github.com/DSA/tri-par-tas)**  
    - Complexité : **O(n log n)** (tous les cas).  
    - Utilise une structure en tas pour trier.  
 
@@ -61,11 +69,11 @@ Cliquez sur les liens pour explorer les implémentations de chaque algorithme da
 
 Cliquez sur les liens pour accéder aux algorithmes de recherche sur GitHub.  
 
-1. **[Recherche Séquentielle (Linear Search)](https://github.com/DSA/recherche-sequentielle)**  
+#### 1. **[Recherche Séquentielle (Linear Search)](https://github.com/DSA/recherche-sequentielle)**  
    - Complexité : **O(n)**.  
    - Parcourt chaque élément jusqu’à trouver l’élément recherché.  
 
-2. **[Recherche Dichotomique (Binary Search)](https://github.com/DSA/recherche-dichotomique)**  
+#### 2. **[Recherche Dichotomique (Binary Search)](https://github.com/DSA/recherche-dichotomique)**  
    - Complexité : **O(log n)** (liste triée).  
    - Divise la liste triée en deux moitiés pour localiser l’élément.
 
