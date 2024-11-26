@@ -37,9 +37,9 @@
 ---
 
 # **1- Algorithmes :**
-### **[🔝 Retour à l'index](#plan-du-contenu)**
 
 ## **Algorithmes de Tri :**
+### **[🔝 Retour à l'index](#plan-du-contenu)**
 
 ![SortingAlgorithms](https://github.com/user-attachments/assets/fcc85d4a-6b51-47ab-af19-55aa6e5acdc4)
 
@@ -75,6 +75,7 @@ Cliquez sur les liens pour explorer les implémentations de chaque algorithme da
 
 
 # **Algorithmes de Recherche :**
+### **[🔝 Retour à l'index](#plan-du-contenu)**
 
 ![SearchAlgorithms](https://github.com/user-attachments/assets/ee6619a3-ffc8-4515-9356-a13c5b89670b)
 
@@ -95,6 +96,7 @@ Cliquez sur les liens pour accéder aux algorithmes de recherche sur GitHub.
 
 
 # **Complexité :**
+### **[🔝 Retour à l'index](#plan-du-contenu)**
 
 ![Big O](https://github.com/user-attachments/assets/57769ee1-5e07-4060-adbd-2a8a26838fab)
 
